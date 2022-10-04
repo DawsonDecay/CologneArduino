@@ -1,6 +1,6 @@
 #include <Servo.h>
 Servo servo;
-
+// Dawson's file
 const int MOTION_PIN_1 = 2; // Pin connected to motion detector 1
 const int MOTION_PIN_2 = 3; // Pin connected to motion detector 2
 const int MOTION_PIN_3 = 4; // Pin connected to motion detector 3
